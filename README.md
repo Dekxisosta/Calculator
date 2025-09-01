@@ -1,2 +1,2 @@
-#ZTMY-Themed Calc
+# ZTMY-Themed Calc
 ## Work in progress
